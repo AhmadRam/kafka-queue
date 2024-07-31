@@ -1,0 +1,17 @@
+{
+    "name": "ahmadramadan/kafka-queue",
+    "require": {
+        "laravel/framework": "10.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ahmadramadan\\KafkaQueue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AhmadRam",
+            "email": "a.n.s.r.96@gmail.com"
+        }
+    ]
+}
